@@ -11,8 +11,8 @@ Number of testing images : 15,984
 ### Dataset
 
 The dataset contains 4 files
+  train_final.zip : This file contains all the training images.
+  test_final.zip : This file contains all the testing images.
+  train.csv : Labels associated with training images.
+  sample.csv : Sample submission file.
 
-train_final.zip : This file contains all the training images.
-test_final.zip : This file contains all the testing images.
-train.csv : Labels associated with training images.
-sample.csv : Sample submission file.
