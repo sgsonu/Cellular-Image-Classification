@@ -18,14 +18,14 @@ The dataset contains 4 files
 
 ### Approach
 
-  ● Built a classification model using fast ai
-  framework that classifies cellular images into
-  14 dierent types
-  ● Used transfer learning on Ecientnet and
-  mixnet_ml architecture pre trained on
-  ImageNet
-  ● Fine tuned using discriminative learning rate
-  for dierent layers
-  ● Achieved an accuracy of 93% upon ensembling
-  the models
+    ● Built a classification model using fast ai
+    framework that classifies cellular images into
+    14 dierent types
+    ● Used transfer learning on Ecientnet and
+    mixnet_ml architecture pre trained on
+    ImageNet
+    ● Fine tuned using discriminative learning rate
+    for dierent layers
+    ● Achieved an accuracy of 93% upon ensembling
+    the models
 
